@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\test4\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+      "projectUniqueName": "D:\\Programe Source\\source\\t4\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
       "projectName": "WebApplication4",
-      "projectPath": "E:\\test4\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+      "projectPath": "D:\\Programe Source\\source\\t4\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
       "packagesPath": "C:\\Users\\Behzad\\.nuget\\packages\\",
-      "outputPath": "E:\\test4\\WebApplication4\\WebApplication4\\obj\\",
+      "outputPath": "D:\\Programe Source\\source\\t4\\WebApplication4\\WebApplication4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Behzad\\AppData\\Roaming\\NuGet\\NuGet.Config",
